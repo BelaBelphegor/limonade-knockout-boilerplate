@@ -7,7 +7,7 @@
 		<meta name="description" content="">
 		<meta name="author" content="tiboitel@student.42.fr">
 		<title>Limonade-knockout-boilerplate</title>
-		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<link href="public/css/bootstrap.min.css" rel="stylesheet">
 	</head>
 	<body>
 		<header>
@@ -29,8 +29,9 @@
 			</div>
 		</footer>
 	</body>
-	<script src="js/knockout-minimize-3.4.2.js" type="text/javascript"></script>
-	<script src="js/sammy.min.js" type="text/javascript"></script>
-	<script src="js/bootstrap.min.js" type="text/javascript"></script>
-	<script src="js/app.js" type="text/javascript"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="public/js/knockout-minimize-3.4.2.js" type="text/javascript"></script>
+	<script src="public/js/sammy.min.js" type="text/javascript"></script>
+	<script src="public/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="public/js/app.js" type="text/javascript"></script>
 </html>
