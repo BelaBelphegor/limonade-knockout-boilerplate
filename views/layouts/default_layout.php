@@ -12,7 +12,10 @@
 	<body>
 		<header>
 			<div class="container">
-				<h3>LimonadePHP-KnockoutJS-Boilerplate</h3>
+				<div class="row text-center">
+					<h3>LimonadePHP-KnockoutJS-Boilerplate</h3>
+				</div>
+				<hr>
 			</div>
 		</header>
 		<div class="container">
@@ -20,7 +23,7 @@
 		</div>
 		<footer class="footer">
 			<div class="container">
-				<div class="row">
+				<div class="row text-center">
 					<div class="col-sm-12">
 						<hr>
 						<p>2017, Limonade-Knockout-Boilerplate, powered by Limonade, Knockout & Sammy. MIT License.</p>

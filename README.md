@@ -24,7 +24,7 @@ It includes LimonadePHP to develop a REST API quickly and efficiently, as well a
 * Opera (current version)
 
 ## Contributing
-Anyone is welcome to contribute,however, if you decide to get involved, please take a moment to review code and documentation of [LimonadePHP](https://github.com/sofadesign/limonade), [SammyJS](http://sammyjs.org/) and [KnockoutJS](http://knockoutjs.com/).
+Anyone is welcome to contribute, however, if you decide to get involved, please take a moment to review code and documentation of [LimonadePHP](https://github.com/sofadesign/limonade), [SammyJS](http://sammyjs.org/) and [KnockoutJS](http://knockoutjs.com/).
 
 ## License
 The code is available under the [MIT license](LICENSE.txt).
